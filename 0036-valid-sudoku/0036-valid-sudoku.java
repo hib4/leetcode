@@ -7,7 +7,7 @@ class Solution {
                 if (num != '.') {
                     if (!set.add(num + "r" + i) ||
                         !set.add(num + "c" + j) || 
-                        !set.add(num + "b" + i / 3 + j / 3)) {
+                        !set.add(num + "b" + i / 3 + "-" + j / 3)) {
                         return false;
                     }
                 }
