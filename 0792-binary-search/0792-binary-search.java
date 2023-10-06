@@ -3,7 +3,8 @@ class Solution {
         int l = 0, r = nums.length - 1;
 
         while (l <= r) {
-            int m = l + ((r - l) / 2);
+            int m = (l + r) >>> 1;
+            System.gc();
             if (target < nums[m]) {
                 r = m - 1;
             } else if (target > nums[m]) {
