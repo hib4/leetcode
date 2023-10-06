@@ -4,7 +4,6 @@ class Solution {
 
         while (l <= r) {
             int m = (l + r) >>> 1;
-            System.gc();
             if (target < nums[m]) {
                 r = m - 1;
             } else if (target > nums[m]) {
