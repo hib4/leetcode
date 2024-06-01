@@ -3,7 +3,7 @@ function wordPattern(pattern: string, s: string): boolean {
     const y = new Map()
     const words = s.split(' ')
 
-    if (pattern.length !=  words.length) return false
+    if (pattern.length != words.length) return false
 
     for (let i = 0; i < pattern.length; i++) {
         const p = pattern[i]
