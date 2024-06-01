@@ -9,17 +9,10 @@ function wordPattern(pattern: string, s: string): boolean {
         const p = pattern[i]
         const w = words[i]
 
-        if (x.has(p) && x.get(p) !== w) {
-            return false
-        } else {
-            x.set(p, w)
-        }
+        if (x.get(p) !== y.get(w)) return false
 
-        if (y.has(w) && y.get(w) !== p) {
-            return false
-        } else {
-            y.set(w, p)
-        }
+        x.set(p, i)
+        y.set(w, i)
     }
 
     return true
