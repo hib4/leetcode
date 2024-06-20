@@ -11,6 +11,7 @@ Collection of LeetCode problems! - Created using [LeetHub](https://github.com/Qa
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hib4/leetcode/tree/master/0014-longest-common-prefix) |
+| [0151-reverse-words-in-a-string](https://github.com/hib4/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/hib4/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/hib4/leetcode/tree/master/0383-ransom-note) |
 # Sorting
@@ -25,3 +26,7 @@ Collection of LeetCode problems! - Created using [LeetHub](https://github.com/Qa
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hib4/leetcode/tree/master/0014-longest-common-prefix) |
+# Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/hib4/leetcode/tree/master/0151-reverse-words-in-a-string) |
