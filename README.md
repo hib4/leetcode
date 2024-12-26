@@ -60,4 +60,20 @@ Collection of LeetCode problems! - Created using [LeetHub](https://github.com/Qa
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/hib4/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/hib4/leetcode/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/hib4/leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/hib4/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/hib4/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
