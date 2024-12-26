@@ -50,3 +50,14 @@ Collection of LeetCode problems! - Created using [LeetHub](https://github.com/Qa
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/hib4/leetcode/tree/master/0146-lru-cache) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hib4/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hib4/leetcode/tree/master/0021-merge-two-sorted-lists) |
+<!---LeetCode Topics End-->
