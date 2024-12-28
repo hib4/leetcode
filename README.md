@@ -76,4 +76,24 @@ Collection of LeetCode problems! - Created using [LeetHub](https://github.com/Qa
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/hib4/leetcode/tree/master/0067-add-binary) |
+## Array
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/hib4/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/hib4/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/hib4/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/hib4/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/hib4/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
