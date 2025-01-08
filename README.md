@@ -79,6 +79,7 @@ Collection of LeetCode problems! - Created using [LeetHub](https://github.com/Qa
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/hib4/leetcode/tree/master/0118-pascals-triangle) |
 | [0349-intersection-of-two-arrays](https://github.com/hib4/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hib4/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
@@ -101,4 +102,8 @@ Collection of LeetCode problems! - Created using [LeetHub](https://github.com/Qa
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/hib4/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hib4/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/hib4/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
