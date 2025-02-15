@@ -64,6 +64,7 @@ Collection of LeetCode problems! - Created using [LeetHub](https://github.com/Qa
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/hib4/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/hib4/leetcode/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -105,5 +106,10 @@ Collection of LeetCode problems! - Created using [LeetHub](https://github.com/Qa
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/hib4/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/hib4/leetcode/tree/master/0118-pascals-triangle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hib4/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
