@@ -70,6 +70,7 @@ Collection of LeetCode problems! - Created using [LeetHub](https://github.com/Qa
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hib4/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/hib4/leetcode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -95,6 +96,7 @@ Collection of LeetCode problems! - Created using [LeetHub](https://github.com/Qa
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hib4/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0349-intersection-of-two-arrays](https://github.com/hib4/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hib4/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -110,6 +112,7 @@ Collection of LeetCode problems! - Created using [LeetHub](https://github.com/Qa
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hib4/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/hib4/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/hib4/leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/hib4/leetcode/tree/master/0198-house-robber) |
