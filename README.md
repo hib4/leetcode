@@ -84,6 +84,7 @@ Collection of LeetCode problems! - Created using [LeetHub](https://github.com/Qa
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/hib4/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hib4/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/hib4/leetcode/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/hib4/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hib4/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -115,6 +116,7 @@ Collection of LeetCode problems! - Created using [LeetHub](https://github.com/Qa
 | [0005-longest-palindromic-substring](https://github.com/hib4/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/hib4/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/hib4/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hib4/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/hib4/leetcode/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/hib4/leetcode/tree/master/1013-fibonacci-number) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/hib4/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
