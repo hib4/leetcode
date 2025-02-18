@@ -56,10 +56,12 @@ Collection of LeetCode problems! - Created using [LeetHub](https://github.com/Qa
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/hib4/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/hib4/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/hib4/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/hib4/leetcode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/hib4/leetcode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
