@@ -73,6 +73,7 @@ Collection of LeetCode problems! - Created using [LeetHub](https://github.com/Qa
 | [0003-longest-substring-without-repeating-characters](https://github.com/hib4/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/hib4/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/hib4/leetcode/tree/master/0067-add-binary) |
+| [0567-permutation-in-string](https://github.com/hib4/leetcode/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -96,12 +97,14 @@ Collection of LeetCode problems! - Created using [LeetHub](https://github.com/Qa
 | [0003-longest-substring-without-repeating-characters](https://github.com/hib4/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/hib4/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hib4/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/hib4/leetcode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hib4/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0349-intersection-of-two-arrays](https://github.com/hib4/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hib4/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/hib4/leetcode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,4 +134,5 @@ Collection of LeetCode problems! - Created using [LeetHub](https://github.com/Qa
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hib4/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/hib4/leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
